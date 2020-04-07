@@ -1,0 +1,5 @@
+1|1|fornecedor1|fornecedor1|Rua Sao Jose|81999999999|1|1980/06/01|1980/06/01
+2|1|fornecedor2|fornecedor2sobrenome|Rua Sao João|819999998999|1|1990/10/17|1990/10/17
+3|1|teste |final|amaro jair da silva|939829382|2|1986/10/29|1986/10/29
+4|2|uninassau|uninassau caruaru|amaro luiz da silva|9896786989|1|2002/06/17|2002/06/17
+5|1|teste|teste2|mauricio de nassau|818839383|3|2019/06/07|2019/06/07

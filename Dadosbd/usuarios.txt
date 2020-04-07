@@ -1,0 +1,5 @@
+adm1|adm1|adm2|123|1
+teste|teste bd|teste bd usuario|12345|1
+10|maycon|maycon luiz|12345|2
+usuario|João|Filho|123|2
+adm|adm|adm|123|1

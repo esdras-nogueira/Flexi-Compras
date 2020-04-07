@@ -1,0 +1,4 @@
+2|feijão|9|3|feijão preto tipo1
+3|macarrão|3|1|macarrão vitarella
+1|arroz|5|2|arroz branco
+4|farinha|3|1|farinha de trigo
